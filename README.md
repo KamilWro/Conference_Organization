@@ -1,5 +1,7 @@
 # Conference_Organization
-System wspomagający organizację konferencji
+System wspomagający organizację konferencji 
+<br>
+Dokumentacja: Piotr Wieczorek
 <br>
 <br>
 <b>Opis zadania</b> <br>
@@ -192,4 +194,4 @@ Każde z poniższych wywołań powinno zwrócić obiekt JSON zawierający status
   [talk] [speakerlogin] [start_timestamp] [title] [room] [score
 </pre>
 
-by Piotr Wieczorek
+
