@@ -10,7 +10,7 @@ public abstract class Command {
     protected String answerOk = "{ \"status\": \"OK\"}";
     protected String answerError = "{ \"status\": \"ERROR\"}";
     protected JSONObject result;
-    String name;
+    protected String name;
 
 
     public Command() {}
